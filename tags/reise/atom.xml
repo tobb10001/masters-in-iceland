@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://masters-in-iceland.tobb10001.de/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;masters-in-iceland.tobb10001.de</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Dies ist ein Web-Feed, auch bekannt als Atom-Feed. Abonnieren Sie, indem Sie die URL aus der Adressleiste in Ihren Nachrichtenleser kopieren. Besuchen Sie About Feeds, um mehr zu erfahren und loszulegen. Es ist kostenlos.</tabi:about_feeds>
+        <tabi:visit_the_site>Besuchen Sie die Webseite</tabi:visit_the_site>
+        <tabi:recent_posts>Aktuelle Beiträge</tabi:recent_posts>
+        <tabi:last_updated_on>Aktualisiert am $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>Reise</tabi:current_section>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://masters-in-iceland.tobb10001.de/skins/red.css?h=3c0e688fbc84585f72ba" /><title>Master in Island 🇮🇸 - Reise</title>
+    <link href="https://masters-in-iceland.tobb10001.de/tags/reise/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://masters-in-iceland.tobb10001.de/tags/reise/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-08-17T00:00:00+00:00</updated><id>https://masters-in-iceland.tobb10001.de/tags/reise/atom.xml</id><entry xml:lang="de">
+        <title>Ankunft</title>
+        <published>2025-08-17T00:00:00+00:00</published>
+        <updated>2025-08-17T00:00:00+00:00</updated>
+        <author>
+            <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://masters-in-iceland.tobb10001.de/blog/arrival/" type="text/html"/>
+        <id>https://masters-in-iceland.tobb10001.de/blog/arrival/</id>
+        <summary type="html">Ein paar Eindrücke aus der ersten Woche.</summary>
+        </entry><entry xml:lang="de">
+        <title>Abflug</title>
+        <published>2025-08-12T00:00:00+00:00</published>
+        <updated>2025-08-12T00:00:00+00:00</updated>
+        <author>
+            <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://masters-in-iceland.tobb10001.de/blog/departure/" type="text/html"/>
+        <id>https://masters-in-iceland.tobb10001.de/blog/departure/</id>
+        </entry>
+</feed>

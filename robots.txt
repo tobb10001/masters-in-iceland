@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://masters-in-iceland.tobb10001.de/sitemap.xml
